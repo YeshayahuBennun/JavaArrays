@@ -31,7 +31,9 @@
 public class FindAPeakElementInAnArray {
     public static void main(String[] args) {
         //int[] arr = {2, 3, 4, 7, 5};
-        int[] arr = {2,3,4,5,6};
+        int[] arr = {2,3,4,5,6
+
+        };
 
         System.out.println(findPeakElement(arr));
     }
